@@ -4,8 +4,8 @@ test
 test
 
 
-<<<<<<< HEAD
 
+<<<<<<< HEAD
 four
 =======
 this is a new one 
@@ -16,3 +16,6 @@ test2 is coming
 
 
 test2 second coming
+=======
+four
+>>>>>>> parent of c343e42... 11

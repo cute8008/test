@@ -4,5 +4,9 @@ test
 test
 
 
+<<<<<<< HEAD
 
 four
+=======
+this is a new one 
+>>>>>>> parent of c977591... Revert "third"
